@@ -1,9 +1,7 @@
 **O sistema deverá permitir cadastrar produtos por categorias.**
 
-*  bebidas não alcoólicas
 **bebidas não alcoólicas**
-
-* refrigerante
+*  refrigerante
 *  água
 *  achocolatado …
 *  bebidas alcoólicas
