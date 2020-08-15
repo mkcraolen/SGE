@@ -13,6 +13,7 @@
 *  vodka
 *  vinho
 *  cachaça
+
 **O sistema deverá permitir ao usuário efetuar login.**
 *  nome de usuário
 *  primeira letra do nome + _ + último sobrenome
@@ -22,6 +23,7 @@
 *  1 letra minúscula
 *  números
 *  1 caractere especial: - ! @
+
 **O sistema deverá permitir realizar uma venda.**
 **Para realizar uma venda é necessário:**
 *  dados do vendedor e seu usuário
