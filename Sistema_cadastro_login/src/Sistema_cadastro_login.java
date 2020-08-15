@@ -1,5 +1,3 @@
-package Sistema_cadastro_login;
-
 import java.util.Scanner;
 
 public class Sistema_cadastro_login {
